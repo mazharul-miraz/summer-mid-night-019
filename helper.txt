@@ -1,0 +1,7 @@
+echo "# summer-mid-night-019" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:mazharul-miraz/summer-mid-night-019.git
+git push -u origin master
+
